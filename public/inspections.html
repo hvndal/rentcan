@@ -285,7 +285,7 @@ async function submitComplaint() {
 
   const propName = STATE.properties.find(p => p.id === propId)?.name || propId;
   const msg = '*NEW TENANT REPAIR REQUEST*%0A%0A*Property:* ' + encodeURIComponent(propName) + '%0A*Issue:* ' + encodeURIComponent(categoryLabel) + '%0A*Priority:* ' + encodeURIComponent(priority) + '%0A*Details:* ' + encodeURIComponent(details);
-  window.open('https://wa.me/918146298024?text=' + msg, '_blank');
+  window.open('https://wa.me/919915217674?text=' + msg, '_blank');
   closeComplaintModal();
   if (saved) alert('Repair request saved and WhatsApp opened for our team.');
   else alert('WhatsApp opened for our team. Could not save to your account — please confirm on WhatsApp.');

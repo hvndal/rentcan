@@ -234,7 +234,7 @@
   }
 
   const PLAN_IDS = ['residential', 'commercial', 'airbnb'];
-  const WA_PHONE = '918146298024';
+  const WA_PHONE = '919915217674';
   const WA_MESSAGES = {
     residential:
       "Hi RentCan — I'm interested in property management for my home. Please share details.",
