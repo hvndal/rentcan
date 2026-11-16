@@ -1,0 +1,26 @@
+# RentCan — Property, Hotel & Hospitality Management (Chandigarh Tricity)
+
+> RentCan is an on-ground property operations and management company based in Sector 79, Mohali (SAS Nagar, Punjab, India), serving Mohali, Chandigarh, Panchkula, Zirakpur, Kharar, New Chandigarh, and Aerocity. RentCan combines scheduled physical inspections, maintenance coordination, vendor management, and hospitality operations with an owner dashboard and photo-verified property timeline.
+
+## Core Services
+- **Homes & Kothis (`/homes`)**: Monthly physical property inspections (from ₹1,499/mo for 1 BHK up to ₹3,499/mo for kothis/independent houses; ₹1,799 for 2 BHK, ₹2,299 for 3 BHK, ₹2,799 for 4 BHK), complimentary first-month baseline inspection, rent tracking & digital receipts, tenant coordination, and NRI property management.
+- **Hotels & Hospitality Operations (`/hotels`)**: On-ground management for boutique hotels, business hotels, guesthouses, resorts, serviced apartment blocks, and highway/airport hotels in Mohali, Chandigarh, Zirakpur, Aerocity, and New Chandigarh. Includes room & corridor inspections, housekeeping & linen turnover audits, preventative AC/plumbing/electrical checks, vendor & AMC (lift, DG, RO, HVAC) tracking, QR issue reporting, and guest complaint resolution. Scoped individually by key count.
+- **Airbnb & Short-Term Stays (`/airbnb`)**: End-to-end Airbnb, villa, guesthouse, and serviced apartment setup (from ₹9,999+) and ongoing management (15% of monthly booking revenue, ₹2,999/mo minimum). Includes listing optimisation, dynamic pricing, guest communication, check-in/check-out, cleaning & turnover, and damage documentation.
+- **Commercial Properties (`/commercial`)**: Offices, retail shops, showrooms, clinics, and warehouses across Sector 17 Chandigarh, Sector 34, Mohali, Aerocity, and Panchkula. Scheduled visits, tenant records, maintenance work orders, and before/after photo evidence.
+- **Buildings & Housing Societies (`/buildings`)**: Apartment complexes, gated communities, and co-living buildings. Includes 30-second QR-code resident issue reporting (no app install required), common-area inspections, vendor dispatch, and committee visibility.
+- **Owner Platform (`/platform`) & Pricing (`/pricing`)**: Permanent property timeline, dated inspection photos, owner repair approvals via phone/WhatsApp, digital lease/KYC vault, and rent ledger.
+
+## Representative Tricity Scenarios (Stories)
+- **NRI Home (Sector 79, Mohali)**: Monthly 5th-of-month physical inspections with 15+ timestamped photos, plumber/electrician quote approvals, and rent tracking for overseas owners.
+- **Boutique Hotel (Zirakpur / Aerocity)**: Weekly room and corridor audits, housekeeping quality checks, HVAC/vendor AMC tracking, and snag-to-work-order accountability for outstation hotel owners.
+- **Commercial Showroom (Sector 17 Chandigarh & Aerocity)**: Documented handovers, facade/utility inspections, and before/after repair records for leased commercial floors.
+- **Housing Society (Panchkula & Kharar)**: Lobby QR complaint tickets routed to vendors with photo proof, replacing scattered WhatsApp groups.
+
+## Service Area (GEO)
+Mohali (SAS Nagar, Sector 79, Phase 8, Phase 9, Aerocity, New Chandigarh, Kharar), Chandigarh (Sector 17, Sector 34, all sectors), Panchkula, and Zirakpur, Punjab, India.
+
+## Contact
+- Website: https://rentcan.in
+- Phone / WhatsApp: +91-9915217674 (https://wa.me/919915217674)
+- Email: hundalg968@gmail.com
+- Office: Sector 79, Mohali, SAS Nagar, Punjab 140308, India

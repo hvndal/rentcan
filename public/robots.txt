@@ -1,4 +1,4 @@
-# RentCan — Property Management, Tricity (Mohali · Chandigarh · Panchkula · Zirakpur)
+# RentCan — Property, Hotel & Hospitality Management, Tricity (Mohali · Chandigarh · Panchkula · Zirakpur · Aerocity)
 # https://rentcan.in
 #
 # Note: Disallow here only stops crawling, not indexing. The application routes
@@ -7,8 +7,26 @@
 
 User-agent: *
 Allow: /
+Allow: /llms.txt
+
+# AI & Generative Search Crawlers (GEO)
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
 
 # Private application surface — nothing here is useful in a search result.
+User-agent: *
 Disallow: /dashboard
 Disallow: /documents
 Disallow: /payments

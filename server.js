@@ -867,7 +867,7 @@ app.get('/sitemap.xml', (req, res) => {
 });
 
 // SEO / crawler files — explicit routes so they never fall through to SPA fallback
-['/robots.txt', '/humans.txt', '/manifest.json', '/favicon.ico', '/apple-touch-icon.png'].forEach((file) => {
+['/robots.txt', '/humans.txt', '/llms.txt', '/manifest.json', '/favicon.ico', '/apple-touch-icon.png'].forEach((file) => {
   app.get(file, (req, res) => {
     res.sendFile(path.join(__dirname, 'public', file.replace(/^\//, '')));
   });
